@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://paulomart.github.io/syncfusion-grid-test/static/css/main.7176885d.chunk.css",
+    "main.js": "https://paulomart.github.io/syncfusion-grid-test/static/js/main.25bf7cb1.chunk.js",
+    "main.js.map": "https://paulomart.github.io/syncfusion-grid-test/static/js/main.25bf7cb1.chunk.js.map",
+    "runtime-main.js": "https://paulomart.github.io/syncfusion-grid-test/static/js/runtime-main.bcc80121.js",
+    "runtime-main.js.map": "https://paulomart.github.io/syncfusion-grid-test/static/js/runtime-main.bcc80121.js.map",
+    "static/css/2.e3494e48.chunk.css": "https://paulomart.github.io/syncfusion-grid-test/static/css/2.e3494e48.chunk.css",
+    "static/js/2.eaa64b87.chunk.js": "https://paulomart.github.io/syncfusion-grid-test/static/js/2.eaa64b87.chunk.js",
+    "static/js/2.eaa64b87.chunk.js.map": "https://paulomart.github.io/syncfusion-grid-test/static/js/2.eaa64b87.chunk.js.map",
+    "index.html": "https://paulomart.github.io/syncfusion-grid-test/index.html",
+    "static/css/2.e3494e48.chunk.css.map": "https://paulomart.github.io/syncfusion-grid-test/static/css/2.e3494e48.chunk.css.map",
+    "static/css/main.7176885d.chunk.css.map": "https://paulomart.github.io/syncfusion-grid-test/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.eaa64b87.chunk.js.LICENSE.txt": "https://paulomart.github.io/syncfusion-grid-test/static/js/2.eaa64b87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcc80121.js",
+    "static/css/2.e3494e48.chunk.css",
+    "static/js/2.eaa64b87.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.25bf7cb1.chunk.js"
+  ]
+}
